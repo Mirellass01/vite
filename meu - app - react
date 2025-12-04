@@ -1,0 +1,5 @@
+ npm create vite@latest meu-app-react
+cd meu-app-react
+npm install
+npm run dev
+
